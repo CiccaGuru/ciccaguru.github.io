@@ -1,7 +1,7 @@
 # Site settings
 title: "Sito di prova"
 description: "Descrizione sito"
-url: "https://https://ciccaguru.github.io/"
+url: "https://ciccaguru.github.io/"
 destination: ../site/
 locale: "it"
 
